@@ -28530,7 +28530,6 @@ ___CSS_LOADER_EXPORT___.push([module.id, "\r\n\t/* GLOBAL STYLES */\nbody {\r\n\
   \*****************************************************/
 /*! unknown exports (runtime-defined) */
 /*! runtime requirements: module */
-/*! CommonJS bailout: module.exports is used directly at 9:0-14 */
 /***/ ((module) => {
 
 
@@ -28918,7 +28917,6 @@ var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js
   \****************************************************************************/
 /*! unknown exports (runtime-defined) */
 /*! runtime requirements: module, __webpack_require__.nc, __webpack_require__.* */
-/*! CommonJS bailout: module.exports is used directly at 230:0-14 */
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 
@@ -29749,7 +29747,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       ]),
       (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("ul", null, [
         (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("li", null, [
-          (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, { to: "/" }, {
+          (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, { to: "/laravel-8-vue-3-starter/" }, {
             default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
               _hoisted_3
             ]),
@@ -29757,7 +29755,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
           })
         ]),
         (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("li", null, [
-          (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, { to: "/about" }, {
+          (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, { to: "/laravel-8-vue-3-starter/about" }, {
             default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
               _hoisted_4
             ]),
@@ -29765,7 +29763,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
           })
         ]),
         (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("li", null, [
-          (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, { to: "/contact" }, {
+          (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, { to: "/laravel-8-vue-3-starter/contact" }, {
             default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
               _hoisted_5
             ]),
@@ -29773,7 +29771,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
           })
         ]),
         (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("li", null, [
-          (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, { to: "/help" }, {
+          (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, { to: "/laravel-8-vue-3-starter/help" }, {
             default: (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(() => [
               _hoisted_6
             ]),
