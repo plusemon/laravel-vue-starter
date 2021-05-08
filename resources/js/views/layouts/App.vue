@@ -44,7 +44,7 @@
 	}
 	nav ul {
 		display: flex;
-		align-items: center;
+		margin: 0;
 	}
 	nav ul li a {
 		background: #292929;
@@ -53,7 +53,7 @@
 		margin: 0px 10px;
 	}
 	nav ul li a:hover,
-	nav ul li a.nuxt-link-exact-active {
+	nav ul li a.router-link-exact-active {
 		color: white;
 		border-bottom: 2px solid;
 	}
