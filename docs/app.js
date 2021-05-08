@@ -28478,19 +28478,19 @@ __webpack_require__.r(__webpack_exports__);
 
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ([{
-  path: "/",
+  path: "/laravel-8-vue-3-starter/",
   component: _views_pages_Home__WEBPACK_IMPORTED_MODULE_0__.default,
   name: 'Home'
 }, {
-  path: "/about",
+  path: "/laravel-8-vue-3-starter/about",
   component: _views_pages_About__WEBPACK_IMPORTED_MODULE_1__.default,
   name: 'About'
 }, {
-  path: "/contact",
+  path: "/laravel-8-vue-3-starter/contact",
   component: _views_pages_Contact__WEBPACK_IMPORTED_MODULE_2__.default,
   name: 'Contact'
 }, {
-  path: "/help",
+  path: "/laravel-8-vue-3-starter/help",
   component: _views_pages_Help__WEBPACK_IMPORTED_MODULE_3__.default,
   name: 'Help'
 }]);
@@ -28530,6 +28530,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "\r\n\t/* GLOBAL STYLES */\nbody {\r\n\
   \*****************************************************/
 /*! unknown exports (runtime-defined) */
 /*! runtime requirements: module */
+/*! CommonJS bailout: module.exports is used directly at 9:0-14 */
 /***/ ((module) => {
 
 
@@ -28917,6 +28918,7 @@ var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js
   \****************************************************************************/
 /*! unknown exports (runtime-defined) */
 /*! runtime requirements: module, __webpack_require__.nc, __webpack_require__.* */
+/*! CommonJS bailout: module.exports is used directly at 230:0-14 */
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 
