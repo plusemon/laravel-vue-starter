@@ -1,6 +1,6 @@
-// Components
-import Home from './views/components/Home'
-import About from './views/components/About'
+// Page Components
+import Home from './views/pages/Home'
+import About from './views/pages/About'
 
 export default [
   { path: '/', component: Home },
