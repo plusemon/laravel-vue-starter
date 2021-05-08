@@ -1,6 +1,7 @@
-Laravel 8 with Vue 3 SPA Starter
+# Laravel 8 with Vue 3 SPA Starter
 
-Installation
+## Installation
+
 Run command one by one:
 
      git clone https://https://github.com/idemonbd/laravel-8-vue-3-starter.git
