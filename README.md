@@ -1,6 +1,6 @@
 # Laravel 8 with Vue 3 SPA Starter
 
-demo: https://idemonbd.github.io/laravel-8-vue-3-starter
+demo: https://idemonbd.github.io/laravel-vue-starter
 
 ## Installation
 
