@@ -6,11 +6,11 @@ demo: https://idemonbd.github.io/laravel-vue-starter
 
 Run command one by one:
 
-     git clone https://https://github.com/idemonbd/laravel-8-vue-3-starter.git
-     cd laravel-8-vue-3-starter
+     git clone https://https://github.com/idemonbd/laravel-vue-starter.git
+     cd laravel-vue-starter
      copy .env.example .env
      php artisan key:generate
      composer install
      npm install
-Done.....!
+Enjoy.....!
 If you fevorite this repo, I will be happy...:
